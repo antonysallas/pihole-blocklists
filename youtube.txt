@@ -1,0 +1,7 @@
+(\.|^)youtube\.com$
+(\.|^)googlevideo\.com$
+(\.|^)ggpht\.com$
+(\.|^)ytimg\.com$
+.*youtu\.?be.*
+r[0-9]+[-.]+sn-([a-z0-9]+).googlevideo(.com)?$
+rr[0-9]+[-.]+sn-([a-z0-9]+).googlevideo(.com)?$
